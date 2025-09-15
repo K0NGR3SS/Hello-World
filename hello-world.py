@@ -1,1 +1,3 @@
 print(input("Enter your sentence: ").lower())
+
+# bazar privet
